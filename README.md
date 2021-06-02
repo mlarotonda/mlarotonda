@@ -1,4 +1,4 @@
 - 👋 Hola, soy Mauri!
-- 👀 Actualmente me desempeño en el area de QA Automation, pero tambien me interesa el area de desarrollo
-- 🌱 Realizo pruebas automatizadas tanto para web como mobile y estoy aprendiendo desarrollo web con HTML+CSS+JS+NodeJS
+- 👀 Me desempeño en el area de QA Automation, pero tambien me interesa el area de desarrollo
+- 🌱 Realizo pruebas automatizadas tanto para web como mobile y estoy aprendiendo desarrollo web
 - 📫 Podes encontrarme en LinkedIn --> https://www.linkedin.com/in/mauricio-la-rotonda/
