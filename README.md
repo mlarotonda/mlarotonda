@@ -1,6 +1,6 @@
 - 👋 Hola, soy Mauri!
 - 👀 Me desempeño en el area de QA Automation y tambien me interesa el area de desarrollo
-- 🌱 Actualmente realizo pruebas automatizadas tanto de web como mobile y estoy aprendiendo desarrollo web
+- 🌱 Actualmente realizo pruebas automatizadas de web, mobile y servicios
 - 📫 Contactame → mauricio.larotonda7@gmail.com 
 - 💼 Encuentrame en LinkedIn →  <a href="https://www.linkedin.com/in/mauricio-la-rotonda" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio-la-rotonda" height="20" width="20" /></a> 
 
