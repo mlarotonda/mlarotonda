@@ -1,1 +1,1 @@
-- Certificados de las capacitaciones que realice
+- Certificados obtenidos
